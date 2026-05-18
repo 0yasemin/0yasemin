@@ -20,9 +20,4 @@ Graduate in Computer Programming, focusing on building desktop applications and 
 
 ---
 
-###  GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0yasemin&show_icons=true&theme=dark&locale=tr" alt="Yasemin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yasemin&layout=compact&theme=dark&locale=tr" alt="Yasemin's Top Languages" height="150" />
-</p>
